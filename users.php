@@ -85,7 +85,7 @@ include 'includes/connect.php';
   </div>
   <!-- End Page Loading -->
 
-  <!-- //////////////////////////////////////////////////////////////////////////// -->
+  <!-- // -->
 
   <!-- START HEADER -->
   <header id="header" class="page-topbar">
